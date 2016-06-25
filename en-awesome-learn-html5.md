@@ -1,3 +1,5 @@
+# EN | Awesome Learn Html5
+
 ## Articles and standards
 
 *   [Differences bewtween HTML5 and HTML4 from W3C](http://www.w3.org/TR/html5-diff/)
@@ -256,8 +258,6 @@
 *   [Dart: HTML of the Future, Today!](https://www.youtube.com/watch?v=euCNWhs7ivQ)
 
 ## Websites and resources
-
-# EN | Awesome Learn Html5
 
 ### Websites
 
